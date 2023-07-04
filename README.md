@@ -17,4 +17,5 @@ El concepto de la obra surge al tomar características propias de las performanc
 Asimismo, tome la idea del "manual de uso" presente en muchas obras de arte contemporáneo, buscando generar, en palabras de la autora, "un dispositivo que puede desplegarse en diferentes contextos siempre que cuente con un manual de instrucciones proporcionado por el artista".
 
 Bibliografía utilizada:
+
 HEINICH, Nathalie. (2014). La obra más allá del objeto.
