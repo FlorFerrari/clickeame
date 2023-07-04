@@ -7,15 +7,28 @@ Autor/a: Florencia Ferrari
 Enlace a la obra: https://editor.p5js.org/FlorFerrari/sketches/N-u4EEvNy
 
 Breve descripción:
-La creación de esta obra se inspira en el trabajo de la artista multimedial Vera Molnar, siguiendo su enfoque minimalista y el uso de formas simples. La obra invita constantemente a la interacción, convirtiéndo así al público en una parte indispensable para su existencia. Además, es efímera y aleatoria, nunca se repetirá la misma imagen dos veces, adoptando así muchas características propias de las performances artísticas.
+
+La creación de esta obra se inspira en el trabajo de la artista multimedial Vera Molnar "Quatre éléments distribués au hasard, 1959" (Cuatro elementos distribuidos al azar, en español). Siguiendo su enfoque minimalista, la obra invita constantemente a la interacción, convirtiéndo así al público en una parte indispensable para su existencia. Únicamente dos tipos de diagonales, inclinadas hacia la izquierda o hacia la derecha, serán las encargadas de generar lo que podría ser una especie de paisaje laberíntico. Además, es efímera y aleatoria, nunca se repetirá la misma imagen dos veces, adoptando así muchas características propias de las performances artísticas. 
 
 Desarrollo técnico, estético y conceptual:
-Para desarrollar esta obra, utilicé el lenguaje de programación P5.js en un canvas de 512 x 512 píxeles. Durante su implementación, empleé la función "random" dos veces para generar aleatoriamente el tamaño de la grilla y la dirección de las diagonales. Cada vez que se presiona el botón izquierdo del mouse, se observan diferentes diseños que se generan de forma aleatoria, asegurando así que las imágenes generadas nunca sean iguales a las anteriores.
 
-El concepto de la obra surge al tomar características propias de las performances, tal como lo expone la autora Heinich en su libro "La obra más allá del objeto". Este tipo de arte se caracteriza por su naturaleza efímera y su necesidad de la presencia del público para su desarrollo. Además, las performances artísticas son inherentemente únicas, nunca hay dos idénticas.
+El concepto de la obra surge al tomar características propias de las performances, tal como lo expone la autora Heinich en su libro "La obra más allá del objeto". Este tipo de arte se caracteriza por su naturaleza efímera y su necesidad de la presencia del público para su desarrollo. Las performances artísticas son inherentemente únicas, nunca hay dos idénticas. Asimismo, con la instrucción "clickeame" tome la idea del "manual de uso" presente en muchas obras de arte contemporáneo.
 
-Asimismo, tome la idea del "manual de uso" presente en muchas obras de arte contemporáneo, buscando generar, en palabras de la autora, "un dispositivo que puede desplegarse en diferentes contextos siempre que cuente con un manual de instrucciones proporcionado por el artista".
+Por otro lado, la obra está influenciada por el texto de Valery, Paul “La conquista de la ubicuidad” (1928)
+
+¿Qué es la ubicuidad?
+
+1. adj. Dicho principalmente de Dios: Que está presente a un mismo tiempo en todas partes.
+
+El autor explica que de la misma manera que ya estamos acostumbrados a recibir energía, luz y agua en nuestras casas, se generará un acostumbramiento -o sometimiento- en relación a las nuevas maneras de consumir arte.
+
+ "Se sabrá cómo transportar y reconstituir en cualquier lugar el sistema de sensaciones -o más exactamente de estimulaciones- que proporciona en un lugar cualquiera un objeto o suceso cualquiera. Las obras adquirirán una especie de ubicuidad. Su presencia inmediata o su restitución en cualquier momento obedecerán a una llamada nuestra. Nos alimentaremos de imágenes visuales o auditivas que nazcan y se desvanezcan al menor gesto, casi un signo." 
+
+Con el uso masivo de los dispositivos tecnológicos e internet, la profecía del visionario Valery se vuelve realidad.
+El poder de consumir y de tener lo que deseemos está a tan solo un click de distancia. ¿Cómo nos influye en nuestra cotidianeidad? ¿Qué consecuencias trae? ¿Es esto un sometimiento? ¿Es un laberinto sin salida? 
 
 Bibliografía utilizada:
 
-HEINICH, Nathalie. (2014). La obra más allá del objeto.
+HEINICH, Nathalie. La obra más allá del objeto (2014).
+VALÉRY, Paul. La conquista de la ubicuidad (1928).
+
